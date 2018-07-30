@@ -520,24 +520,24 @@
 
 /* Support Section */
 
-"SUPPORT_SECTION_TITLE" = "Support";
+"SUPPORT_SECTION_TITLE" = "الدعم";
 
-"CONTACT_AND_MORE_LABEL" = "Contact & More";
-"CONTACT_AND_MORE_PAGE_TITLE" = "Support";
-"CONTACT_SUPPORT_SECTION_TITLE" = "Support";
-"CONTACT_SUPPORT_LABEL" = "Contact Support";
-"VERSIONS_TITLE" = "Versions";
-"UPDATES_SECTION_TITLE" = "Updates";
-"AUTO_CHECK_FOR_UPDATES_LABEL" = "Auto Check for Updates";
-"CHECK_FOR_UPDATES_BUTTON" = "Check for Update";
-"MORE_TWEAKS_TITLE" = "More Tweaks";
+"CONTACT_AND_MORE_LABEL" = "الإتصال والمزيد";
+"CONTACT_AND_MORE_PAGE_TITLE" = "الدعم";
+"CONTACT_SUPPORT_SECTION_TITLE" = "الدعم";
+"CONTACT_SUPPORT_LABEL" = "الإتصال بالدعم";
+"VERSIONS_TITLE" = "الإصدارات";
+"UPDATES_SECTION_TITLE" = "التحديثات";
+"AUTO_CHECK_FOR_UPDATES_LABEL" = "البحث التلقائي عن التحديثات";
+"CHECK_FOR_UPDATES_BUTTON" = "التحقق من وجود تحديث";
+"MORE_TWEAKS_TITLE" = "مزيد من الأدوات";
 
-"ACCOUNT_AD_REMOVAL_LABEL" = "الحساب و ازالة الاعلانات";
-"ACCOUNT" = "الحاسب";
-"MANAGE_ACCOUNT" = "ادارة الحساب";
-"LOGIN_OR_REGISTER" = "تسجيل الدخول او التسجيل الجديد";
+"ACCOUNT_AD_REMOVAL_LABEL" = "الحساب وإزالة الإعلانات";
+"ACCOUNT" = "الحساب";
+"MANAGE_ACCOUNT" = "إدارة الحساب";
+"LOGIN_OR_REGISTER" = "دخول أو تسجيل";
 "LOGOUT" = "تسجيل الخروج";
-"HOW_TO_REMOVE_ADS" = "كيفية ازالة الاعلانات";
+"HOW_TO_REMOVE_ADS" = "كيفيه إزاله الإعلانات";
 "PURCHASE_WATUSI_LICENSE_BUTTON" = "شراء رخصة Watusi";
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "غرد من اجل يومين خاليين من الاعلانات";
 "LOGIN_TO_PURCHASE_MESSAGE" = "يتوجب عليك التسجيل لشراء الرخصة";
@@ -546,16 +546,16 @@
 
 /* Promo Code */
 
-"REDEEM_TITLE" = "Redeem";
-"REDEEM_BUTTON" = "Redeem";
-"REDEEM_CODE" = "Redeem Code";
-"BAD_PROMO_CODE_FORMAT_MESSAGE" = "Invalid Promo Code";
-"ENTER_PROMO_CODE_MESSAGE" = "Enter your promo code";
+"REDEEM_TITLE" = "استرداد";
+"REDEEM_BUTTON" = "استرداد";
+"REDEEM_CODE" = "استرداد الرمز";
+"BAD_PROMO_CODE_FORMAT_MESSAGE" = "رمز الترويجي غير صالح";
+"ENTER_PROMO_CODE_MESSAGE" = "ادخل الرمز الترويجي الخاص بك";
 "REDEEM_SUCCESSFULL_TITLE" = "Code Redeemed";
 "REDEEM_SUCCESSFULL_MESSAGE" = "Watusi license has been added to your account";
 "REDEEM_FAILED_TITLE" = "Redeem Failed";
-"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "Invalid Promo Code";
-"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "Invalid Data";
+"REDEEM_FAILED_WRONG_CODE_MESSAGE" = "رمز الترويجي غير صالح";
+"REDEEM_FAILED_INVALID_DATA_MESSAGE" = "بيانات غير صالحه";
 
 
 /* Button */
